@@ -1,1 +1,1 @@
-# An introduction to various concepts on Bayessian Statistics usin python 
+# An introduction to various concepts on Bayessian Statistics using python 
