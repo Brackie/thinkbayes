@@ -4,8 +4,8 @@ from thinkbayes import Pmf
 pmf = Pmf("Elvis was an identical twin")
 
 # Setting priors on all
-pmf.set("A", 1, 0.08)
-pmf.set("B", 1, 0.92)
+pmf.set("A", 0.08)
+pmf.set("B", 0.92)
 
 # Finding probabilities based on the priors and likelihoods
 pmf.mult("A", 1)
