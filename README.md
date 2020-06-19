@@ -4,7 +4,7 @@
 * Reading material - http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
 * Python 3
 
-##Libararies
+## Libararies
 * numpy 
 * scipy
 * requests
