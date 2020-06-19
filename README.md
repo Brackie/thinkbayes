@@ -3,6 +3,7 @@
 ## Requirments
 * Reading material - http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
 * Python 3
+
 ##Libararies
 * numpy 
 * scipy
